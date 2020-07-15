@@ -1,0 +1,2 @@
+# Image-To-Image-Translation-using-Cycle-GANS
+This notebook illustrates the use of Cycle GANs for Image2Image Translation on two sets of images (summer and winter).  We take 2 sets of unpaired images (taken randomly and independent of each other) of summer and winter background scenes. Each of these sets is trained to generate images that slook like an image from the other set. There is no relation between any of these images and hence this is unsupervised learning
